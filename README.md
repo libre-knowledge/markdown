@@ -15,7 +15,10 @@
 
 ### Markdown 文件潛在問題檢查工具
 
-* Markdownlint
+* [Markdownlint](https://github.com/markdownlint/markdownlint)  
+  檢查 Markdown 文件的潛在問題（由 Mark Harrison 所開發、基於 Ruby 程式語言）
+* [markdownlint](https://github.com/DavidAnson/markdownlint)  
+  檢查 Markdown 文件的潛在問題（由 David Anson 所開發、基於 Node.js 執行環境）
 
 ## 參考資料
 
