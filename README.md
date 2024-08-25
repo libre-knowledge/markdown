@@ -27,6 +27,10 @@
 * [Markdown - Wikipedia](https://en.wikipedia.org/wiki/Markdown)  
   [Markdown - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/Markdown)  
   說明 Markdown 的基本概念
+* [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)  
+  說明 Markdown 的標記語法
+* [Markdown 語法說明](https://markdown.tw/)  
+  說明 Markdown 的標記語法
 
 ---
 
