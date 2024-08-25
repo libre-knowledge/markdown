@@ -9,7 +9,12 @@
 
 以下列舉本主題相關的解決方案：
 
+### Markdown 文件編輯器
+
 * CodiMD
+
+### Markdown 文件潛在問題檢查工具
+
 * Markdownlint
 
 ## 參考資料
